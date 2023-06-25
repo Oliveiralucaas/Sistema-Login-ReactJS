@@ -19,13 +19,13 @@ Neste projeto, foi desenvolvido um sistema de login simplificado, utilizando a C
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/user/project
+git clone https://github.com/Oliveiralucaas/Sistema-Login-ReactJS.git
 
 # Entrar numa IDE de sua preferência 
 
-# Executar `npm install` para instalação de depedências
+# Executar `yarn install` para instalação de depedências
 
-# Executar `npm start` para rodar a aplicação em um servidor local
+# Executar `yarn start` para rodar a aplicação em um servidor local
 
 ```
 
