@@ -11,7 +11,7 @@ const GlobalStyle = createGlobalStyle`
 body {
     width: 100vw;
     heiht: 100vh;
-    background-color; #f0f2f5;
+    background: linear-gradient(#e66465, #9198e5);
     font-family: Arial, Helvetica, sans-serif
 }
 `;
