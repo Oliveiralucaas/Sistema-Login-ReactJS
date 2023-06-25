@@ -10,8 +10,6 @@ Veja o Projeto em Deploy [Clicando aqui](https://login-com-reactjs.netlify.app)
 </h2>
 
 
-<hr>
-
 ## 💻 Tecnologias Utilizadas
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/javascript)
