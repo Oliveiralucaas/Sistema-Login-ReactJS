@@ -4,6 +4,8 @@
 
 Neste projeto, foi desenvolvido um sistema de login simplificado, utilizando a Context API para gerenciar o estado da aplicação e manter os usuários autenticados. Além disso, durante o processo de cadastro, armazenaremos as informações dos usuários no Local Storage do navegador.
 
+# Veja a aplicação em deploy (https://login-com-reactjs.netlify.app)
+
 <hr>
 
 ## 💻 Tecnologias Utilizadas
