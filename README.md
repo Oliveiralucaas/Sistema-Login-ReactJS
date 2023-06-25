@@ -8,9 +8,28 @@ Neste projeto, foi desenvolvido um sistema de login simplificado, utilizando a C
 
 ## 💻 Tecnologias Utilizadas
 
-- [Javascript](https://)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Javascript]([https://](https://developer.mozilla.org/pt-BR/docs/Web/javascript))
 - [ReactJS](https://react.dev/)
+- [Styled Componets](https://styled-components.com/)
 
+<hr>
+
+# 👷 Como rodar
+
+```bash
+# Clonar o repositório
+git clone https://github.com/user/project
+
+# Entrar numa IDE de sua preferência 
+
+# Executar `npm install` para instalação de depedências
+
+# Executar `npm start` para rodar a aplicação em um servidor local
+
+```
+
+<hr>
 
 ## :mortar_board: Autor
 
