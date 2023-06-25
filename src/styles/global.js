@@ -11,7 +11,7 @@ const GlobalStyle = createGlobalStyle`
 body {
     width: 100vw;
     heiht: 100vh;
-    background: radial-gradient(circle, rgba(4,4,4,1) 3%, rgba(102,102,102,1) 51%, rgba(0,0,0,1) 100%, rgba(255,255,255,1) 100%);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
     font-family: Arial, Helvetica, sans-serif
 }
 `;
