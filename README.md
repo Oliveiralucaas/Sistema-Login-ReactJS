@@ -8,7 +8,6 @@ Neste projeto, foi desenvolvido um sistema de login simplificado, utilizando a C
 
 ## 💻 Tecnologias Utilizadas
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/javascript)
 - [ReactJS](https://react.dev/)
 - [Styled Componets](https://styled-components.com/)
