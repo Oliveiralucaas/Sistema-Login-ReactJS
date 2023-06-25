@@ -9,7 +9,7 @@ Neste projeto, foi desenvolvido um sistema de login simplificado, utilizando a C
 ## 💻 Tecnologias Utilizadas
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [Javascript]([https://](https://developer.mozilla.org/pt-BR/docs/Web/javascript)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/javascript)
 - [ReactJS](https://react.dev/)
 - [Styled Componets](https://styled-components.com/)
 
@@ -19,7 +19,7 @@ Neste projeto, foi desenvolvido um sistema de login simplificado, utilizando a C
 
 ```bash
 # Clonar o repositório
-git clone `https://github.com/Oliveiralucaas/Sistema-Login-ReactJS.git`
+git clone https://github.com/Oliveiralucaas/Sistema-Login-ReactJS.git
 
 # Entrar numa IDE de sua preferência 
 
