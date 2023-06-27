@@ -43,7 +43,7 @@ git clone https://github.com/Oliveiralucaas/Sistema-Login-ReactJS.git
             <a href="https://github.com/Oliveiralucaas">
                 <img src="https://avatars2.githubusercontent.com/u/60048274?s=460&u=a7f56af7dbe7d6338401d5b256fba528d8f0400b&v=4" width="150px;" alt="Image do user" />
                 <br />
-                <sub><b>Lucas</b></sub>
+                <sub><b>Lucas G.</b></sub>
             </a>           
         </td>    
     </tr>
